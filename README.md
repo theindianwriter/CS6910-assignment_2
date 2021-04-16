@@ -15,6 +15,8 @@ then go to ***uncomment below part and comment wandb logs in testModel and train
 Note : You can choose the following model name : 
 ***["inceptionv3","resnet18","resnet34",resnet50", "resnet101","vgg11","vgg19" "squeezenet", "densenet121","densenet161"]***
 
+Then simply do runall 
+
 Similarly ***"DL_Assign_2_PartB_withWandB.ipynb"*** notebook is for sweep in partB
 ***"DL_Assign_2_PartB_Q3_Feature_Extract_Comparison.ipynb" and "DL_Assign_2_PartB_Q3_preTrainedComparison.ipynb"*** is for plottig graphs in partB Q3
 
